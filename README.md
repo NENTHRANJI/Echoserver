@@ -61,13 +61,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 ## OUTPUT:
-CLIENT.PY
+<img width="1600" height="328" alt="image" src="https://github.com/user-attachments/assets/1f48fd88-5629-4f08-9c6d-8c85185d5ad1" />
 
-<img width="707" height="768" alt="541393735-862f2c19-921d-422b-8479-b62f58ff1dc9" src="https://github.com/user-attachments/assets/8b3b6031-f9f6-46db-9e98-33329c49fcff" />
-SERVER.PY
-
-
-<img width="752" height="717" alt="541393781-acb3fd65-16b3-49d7-8f8f-52cf726a5687" src="https://github.com/user-attachments/assets/b6955a7e-d464-456e-a3fd-297fd00dc6c6" />
 
 ## RESULT:
 The program is executed successfully
